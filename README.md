@@ -3,7 +3,7 @@
 Hey there! I've just completed the Udemy course on mastering dbt (data build tool), and I'm excited to share my learning journey with you. Throughout this course, I've dived deep into the world of dbt, gaining both theoretical knowledge and practical skills to use this powerful platform professionally. Let me walk you through what I've learned:
 
 ## Setting Up My Environment
-- I started by setting up a complete development environment on both Mac & Windows platforms.
+- I started by setting up a complete development environment on Windows platform.
 - Connecting to Snowflake and BI tools was seamless, and I learned how to configure dbt profiles to enhance productivity.
 
 ## Mastering Core Concepts
