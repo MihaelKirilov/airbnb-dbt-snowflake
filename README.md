@@ -37,3 +37,4 @@ If you're looking to take your data engineering skills to the next level, I high
 ---
 
 This README.md is created to share my learning journey from the Udemy course and does not serve as an official course document. For detailed information, please refer to the course content on Udemy.
+The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero - https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?referralCode=659B6722C93EF4096D11&couponCode=LEADERSALE24B
