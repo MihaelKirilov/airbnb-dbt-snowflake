@@ -1,0 +1,17 @@
+version: 2
+
+exposures:
+  - name: executive_dashboard
+    label: Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: https://a557d538.eu5a.app.preset.io/superset/dashboard/c353beba-91e2-4997-af38-62ae1219719c/?native_filters_key=t7Dwql97n6x2dr0VfjBVaVxd4KU4ZMIDSlaulxibVskvz2uSPSXlRBxbwJ-pea41
+    description: Executive Dashboard about Airbnb listings and hosts
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('full_moon_reviews')
+
+    owner:
+      name: Mihael Kirilov
+      email: mvencikirilov@gmail.com
